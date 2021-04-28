@@ -9,7 +9,7 @@ sites:
     url: https://dmarcx.com
     
 status-website:
-  baseUrl: /repo
+  baseUrl: /mon-ss
   name: Monitor Akinzin
     
 ##status-website:
