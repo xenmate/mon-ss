@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2103,
-    "timeDay": 2103,
-    "timeWeek": 2103,
-    "timeMonth": 2103,
-    "timeYear": 2103,
+    "time": 2131,
+    "timeDay": 2131,
+    "timeWeek": 2131,
+    "timeMonth": 2131,
+    "timeYear": 2131,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/dmarcx.com",
     "slug": "dmarc-x",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "31.36%",
+    "uptimeDay": "31.36%",
+    "uptimeWeek": "31.36%",
+    "uptimeMonth": "31.36%",
+    "uptimeYear": "31.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-28": 17
+      "2021-04-29": 42,
+      "2021-04-28": 192
     }
   }
 ]
