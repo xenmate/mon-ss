@@ -4,10 +4,10 @@
     "url": "https://stopspoof.com",
     "icon": "https://favicons.githubusercontent.com/stopspoof.com",
     "slug": "stop-spoof",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2538,
@@ -15,7 +15,9 @@
     "timeWeek": 2536,
     "timeMonth": 2538,
     "timeYear": 2538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-26": 1
+    }
   },
   {
     "name": "DmarcX",
