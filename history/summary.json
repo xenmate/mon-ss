@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/stopspoof.com",
     "slug": "stop-spoof",
     "status": "up",
-    "uptime": "88.02%",
+    "uptime": "88.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "88.97%",
+    "uptimeYear": "89.25%",
     "time": 2536,
-    "timeDay": 2057,
-    "timeWeek": 2392,
-    "timeMonth": 2342,
+    "timeDay": 2326,
+    "timeWeek": 2379,
+    "timeMonth": 2367,
     "timeYear": 2526,
     "dailyMinutesDown": {
       "2022-05-12": 25,
@@ -67,8 +67,7 @@
       "2021-07-06": 917,
       "2021-06-16": 63,
       "2021-06-14": 452,
-      "2021-06-13": 1440,
-      "2021-06-12": 1440
+      "2021-06-13": 1440
     }
   },
   {
