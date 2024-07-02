@@ -4,7 +4,7 @@
     "url": "https://stopspoof.com",
     "icon": "https://icons.duckduckgo.com/ip3/stopspoof.com.ico",
     "slug": "stop-spoof",
-    "status": "up",
+    "status": "down",
     "uptime": "93.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2316,
     "timeYear": 2925,
     "dailyMinutesDown": {
+      "2024-07-02": 0,
       "2024-06-03": 1106,
       "2024-06-02": 914,
       "2024-05-04": 747,
