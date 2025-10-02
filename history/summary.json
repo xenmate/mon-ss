@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stopspoof.com.ico",
     "slug": "stop-spoof",
     "status": "up",
-    "uptime": "82.12%",
+    "uptime": "82.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "43.66%",
-    "time": 1889,
-    "timeDay": 1369,
-    "timeWeek": 1364,
-    "timeMonth": 1339,
-    "timeYear": 1647,
+    "time": 1886,
+    "timeDay": 1392,
+    "timeWeek": 1357,
+    "timeMonth": 1347,
+    "timeYear": 1640,
     "dailyMinutesDown": {
       "2025-09-24": 19,
       "2025-09-22": 29,
@@ -228,8 +228,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 791,
       "2024-11-03": 116,
-      "2024-11-02": 877,
-      "2024-10-02": 93
+      "2024-11-02": 877
     }
   },
   {
