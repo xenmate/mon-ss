@@ -6,17 +6,16 @@
     "slug": "stop-spoof",
     "status": "up",
     "uptime": "82.82%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "96.75%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "46.43%",
-    "time": 1677,
-    "timeDay": 1444,
-    "timeWeek": 1392,
-    "timeMonth": 1446,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "46.46%",
+    "time": 1675,
+    "timeDay": 1389,
+    "timeWeek": 1401,
+    "timeMonth": 1442,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2025-12-12": 12,
       "2025-12-11": 45,
       "2025-12-10": 49,
       "2025-12-08": 121,
@@ -247,8 +246,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
