@@ -6,14 +6,14 @@
     "slug": "stop-spoof",
     "status": "up",
     "uptime": "87.19%",
-    "uptimeDay": "96.70%",
+    "uptimeDay": "97.92%",
     "uptimeWeek": "97.21%",
     "uptimeMonth": "97.40%",
-    "uptimeYear": "54.09%",
-    "time": 1634,
-    "timeDay": 1452,
+    "uptimeYear": "54.20%",
+    "time": 1633,
+    "timeDay": 1506,
     "timeWeek": 1719,
-    "timeMonth": 1549,
+    "timeMonth": 1552,
     "timeYear": 1382,
     "dailyMinutesDown": {
       "2026-01-10": 30,
@@ -237,8 +237,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
