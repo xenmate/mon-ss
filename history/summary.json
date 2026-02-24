@@ -4,19 +4,19 @@
     "url": "https://stopspoof.com",
     "icon": "https://icons.duckduckgo.com/ip3/stopspoof.com.ico",
     "slug": "stop-spoof",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "76.17%",
-    "uptimeMonth": "86.30%",
-    "uptimeYear": "98.78%",
-    "time": 1576,
-    "timeDay": 1870,
-    "timeWeek": 1878,
-    "timeMonth": 1822,
+    "uptimeDay": "7.53%",
+    "uptimeWeek": "76.46%",
+    "uptimeMonth": "86.34%",
+    "uptimeYear": "98.79%",
+    "time": 1573,
+    "timeDay": 1858,
+    "timeWeek": 1875,
+    "timeMonth": 1829,
     "timeYear": 1492,
     "dailyMinutesDown": {
-      "2026-02-24": 1307,
+      "2026-02-24": 1308,
       "2026-02-23": 284,
       "2026-02-22": 64,
       "2026-02-21": 149,
@@ -54,7 +54,7 @@
       "2026-01-20": 18,
       "2026-01-19": 26,
       "2026-01-18": 102,
-      "2026-01-17": 65
+      "2026-01-17": 35
     }
   },
   {
