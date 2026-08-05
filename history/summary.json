@@ -4,16 +4,16 @@
     "url": "https://stopspoof.com",
     "icon": "https://icons.duckduckgo.com/ip3/stopspoof.com.ico",
     "slug": "stop-spoof",
-    "status": "down",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "91.17%",
-    "uptimeWeek": "88.62%",
-    "uptimeMonth": "91.01%",
-    "uptimeYear": "97.33%",
+    "uptimeDay": "79.54%",
+    "uptimeWeek": "86.96%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "97.30%",
     "time": 1462,
-    "timeDay": 1218,
-    "timeWeek": 1349,
-    "timeMonth": 1351,
+    "timeDay": 1276,
+    "timeWeek": 1351,
+    "timeMonth": 1350,
     "timeYear": 1475,
     "dailyMinutesDown": {
       "2026-05-31": 512,
@@ -72,7 +72,7 @@
       "2026-08-02": 384,
       "2026-08-03": 217,
       "2026-08-04": 122,
-      "2026-08-05": 5
+      "2026-08-05": 172
     }
   },
   {
@@ -80,15 +80,15 @@
     "url": "https://dmarcx.com",
     "icon": "https://icons.duckduckgo.com/ip3/dmarcx.com.ico",
     "slug": "dmarc-x",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "91.83%",
-    "uptimeWeek": "89.49%",
-    "uptimeMonth": "91.50%",
-    "uptimeYear": "97.41%",
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "80.21%",
+    "uptimeWeek": "87.83%",
+    "uptimeMonth": "91.41%",
+    "uptimeYear": "97.38%",
     "time": 1624,
-    "timeDay": 1511,
-    "timeWeek": 1567,
+    "timeDay": 1597,
+    "timeWeek": 1578,
     "timeMonth": 1579,
     "timeYear": 1624,
     "dailyMinutesDown": {
@@ -149,7 +149,7 @@
       "2026-08-02": 364,
       "2026-08-03": 202,
       "2026-08-04": 117,
-      "2026-08-05": 0
+      "2026-08-05": 168
     }
   }
 ]
