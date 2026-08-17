@@ -82,17 +82,17 @@
     "url": "https://dmarcx.com",
     "icon": "https://icons.duckduckgo.com/ip3/dmarcx.com.ico",
     "slug": "dmarc-x",
-    "status": "down",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "86.75%",
+    "uptimeDay": "84.56%",
     "uptimeWeek": "88.94%",
-    "uptimeMonth": "87.77%",
-    "uptimeYear": "98.13%",
-    "time": 1611,
-    "timeDay": 1509,
-    "timeWeek": 1530,
-    "timeMonth": 1568,
-    "timeYear": 1611,
+    "uptimeMonth": "87.69%",
+    "uptimeYear": "98.12%",
+    "time": 1610,
+    "timeDay": 1477,
+    "timeWeek": 1522,
+    "timeMonth": 1565,
+    "timeYear": 1610,
     "dailyMinutesDown": {
       "2026-06-20": 345,
       "2026-06-21": 155,
@@ -142,7 +142,7 @@
       "2026-08-14": 111,
       "2026-08-15": 111,
       "2026-08-16": 242,
-      "2026-08-17": 116
+      "2026-08-17": 147
     }
   }
 ]
