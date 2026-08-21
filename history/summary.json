@@ -8,12 +8,12 @@
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.08%",
+    "uptimeMonth": "92.30%",
     "uptimeYear": "97.19%",
     "time": 1468,
     "timeDay": 1512,
     "timeWeek": 1882,
-    "timeMonth": 1515,
+    "timeMonth": 1517,
     "timeYear": 1486,
     "dailyMinutesDown": {
       "2026-06-01": 344,
@@ -82,19 +82,18 @@
     "url": "https://dmarcx.com",
     "icon": "https://icons.duckduckgo.com/ip3/dmarcx.com.ico",
     "slug": "dmarc-x",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.46%",
-    "uptimeMonth": "87.81%",
-    "uptimeYear": "98.21%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "92.54%",
+    "uptimeMonth": "88.02%",
+    "uptimeYear": "98.24%",
     "time": 1605,
     "timeDay": 1718,
-    "timeWeek": 1477,
-    "timeMonth": 1561,
+    "timeWeek": 1470,
+    "timeMonth": 1560,
     "timeYear": 1605,
     "dailyMinutesDown": {
-      "2026-06-25": 159,
       "2026-06-26": 473,
       "2026-06-27": 322,
       "2026-06-28": 502,
@@ -141,7 +140,8 @@
       "2026-08-16": 242,
       "2026-08-17": 177,
       "2026-08-18": 156,
-      "2026-08-19": 67
+      "2026-08-19": 67,
+      "2026-08-21": 0
     }
   }
 ]
