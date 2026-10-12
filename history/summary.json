@@ -84,10 +84,10 @@
     "slug": "dmarc-x",
     "status": "down",
     "uptime": "97.58%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "95.78%",
     "uptimeWeek": "18.43%",
-    "uptimeMonth": "18.23%",
-    "uptimeYear": "86.81%",
+    "uptimeMonth": "18.09%",
+    "uptimeYear": "86.80%",
     "time": 1608,
     "timeDay": 0,
     "timeWeek": 1462,
@@ -184,7 +184,7 @@
       "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1369,
-      "2026-10-12": 0
+      "2026-10-12": 61
     }
   }
 ]
